@@ -1,1 +1,1 @@
-Config={LocalMode:!1},cc.macro.ENABLE_WEBGL_ANTIALIAS=!0;
+Config={LocalMode:!0},cc.macro.ENABLE_WEBGL_ANTIALIAS=!0;
