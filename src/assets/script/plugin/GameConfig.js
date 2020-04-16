@@ -1,0 +1,1 @@
+Config={},Config.LocalMode=!0,cc.macro.ENABLE_WEBGL_ANTIALIAS=!0,cc.view.enableAutoFullScreen(!1);
